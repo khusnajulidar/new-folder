@@ -152,7 +152,7 @@ Komposisi awal yang dapat dijadikan panduan, bukan aturan kaku:
 - 35% karya dan proses.
 - 25% informasi produk.
 
-Poster dakwah/f aidah ilmu dapat berada di kelompok informasi, tanpa harus dipaksakan masuk ke tema produk anak.
+Poster dakwah/faidah ilmu dapat berada di kelompok informasi, tanpa harus dipaksakan masuk ke tema produk anak.
 
 ### Peran platform
 - **Instagram:** profil P’Nata, carousel informasi, preview karya, reels, story, serta sorotan seperti Produk, Cara Order, dan FAQ.
@@ -281,6 +281,6 @@ Saat memulai percakapan baru atau meminta bantuan desain, gunakan dokumen ini se
 
 Instruksi ringkas untuk asisten/desainer:
 
-> Ikuti P’Nata Visual Identity Guide v1.0. Pertahankan logo asli, palet warna dan karakter Soft 3D Playful untuk media belajar anak. Untuk poster dakwah/f aidah ilmu, gunakan keluarga visual yang lebih tenang dan terbaca, tetap konsisten dengan identitas merek. Jangan mengarang kode warna, font, atau detail aset yang belum diverifikasi. Utamakan ketepatan isi, keterbacaan, kemudahan penggunaan, dan batasan proyek yang telah disepakati. Jangan mengubah arah merek tanpa persetujuan pengguna.
+> Ikuti P’Nata Visual Identity Guide v1.0. Pertahankan logo asli, palet warna dan karakter Soft 3D Playful untuk media belajar anak. Untuk poster dakwah/faidah ilmu, gunakan keluarga visual yang lebih tenang dan terbaca, tetap konsisten dengan identitas merek. Jangan mengarang kode warna, font, atau detail aset yang belum diverifikasi. Utamakan ketepatan isi, keterbacaan, kemudahan penggunaan, dan batasan proyek yang telah disepakati. Jangan mengubah arah merek tanpa persetujuan pengguna.
 
 **Dokumen ini adalah pedoman dasar yang dapat berkembang.** Revisi dilakukan secara bertahap tanpa menghilangkan karakter karya P’Nata yang sudah ada.
